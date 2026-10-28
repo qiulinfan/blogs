@@ -1,0 +1,15 @@
+.DS_Store
+.obsidian/
+.vscode/
+.idea/
+.codex/
+.claude/
+.pi/
+.omp/
+.dsh/
+*.code-workspace
+.env
+.env.*
+!.env.example
+*.swp
+*.tmp
